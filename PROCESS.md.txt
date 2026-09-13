@@ -1,0 +1,17 @@
+PROCESS.md
+How I used AI
+For this assignment, I used AI in a few different ways.
+First, I used AI for brainstorming. I already had the main topic, but AI helped me think about how to connect the topic with my own project experience. It also helped me make the essay more focused.
+Second, I used AI for drafting. Some parts of the first draft were too general, so I asked AI to help me make the structure clearer. But I did not keep everything AI wrote. I changed a lot of it so that it matched my own experience better.
+Third, I used AI for editing and language support. Since English is not my first language, AI helped me check grammar and make some sentences smoother. But I still checked the meaning myself and rewrote some parts when the AI version sounded too formal or too general.
+
+What I kept
+I kept the ideas that were useful for my own argument. For example, I kept the point that programming is still important because it helps us understand and control the system, not just make code faster. I also kept the idea that AI is helpful, but it should not replace our own judgement.
+
+What I rejected
+I rejected content that felt too generic or too “perfect.” Some AI suggestions sounded good, but they did not really fit my own project. I also removed sentences that were too broad, like “AI is changing everything” or “technology is transforming the world,” because they did not say anything specific about my experience.
+I also changed any part that did not sound like me. I wanted the final writing to feel natural and simple, not like it was written by a machine.
+
+My reflection
+This assignment made me feel that AI is useful, but it is only a tool. It can help me start writing and save time, but I still need to understand the content myself. In my Arduino project, I needed basic programming knowledge to change the code and make the installation work the way I wanted. So I think the same is true for writing: AI can help, but I still need my own thinking to make the final result good.
+
